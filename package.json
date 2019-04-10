@@ -4,6 +4,10 @@
   "description": "A brighter monokai theme variant",
   "version": "0.0.1",
   "publisher": "skylerlee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skylerlee/vscode-monokai-neo.git"
+  },
   "engines": {
     "vscode": "*"
   },
@@ -15,5 +19,13 @@
         "path": "./themes/monokai-neo-color-theme.json"
       }
     ]
-  }
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "bright",
+    "theme"
+  ]
 }
