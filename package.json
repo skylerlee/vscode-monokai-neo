@@ -1,0 +1,19 @@
+{
+  "name": "theme-monokai-neo",
+  "displayName": "Monokai Neo",
+  "description": "A brighter monokai theme variant",
+  "version": "0.0.1",
+  "publisher": "skylerlee",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Neo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-neo-color-theme.json"
+      }
+    ]
+  }
+}
